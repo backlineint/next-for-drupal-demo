@@ -1,0 +1,9 @@
+uuid: 2abe9a56-fd70-4fdb-afc1-843ce99aeba8
+langcode: en
+status: true
+dependencies: {  }
+id: blog
+label: Blog
+base_url: 'http://localhost:3000'
+preview_url: 'http://localhost:3000/api/preview'
+preview_secret: nextfordrupalsecret
