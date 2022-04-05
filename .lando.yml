@@ -1,0 +1,6 @@
+name: next-for-drupal-demo
+recipe: pantheon
+config:
+  framework: drupal8
+  site: next-for-drupal-demo
+  id: 9a87ef56-2343-4def-a870-6c03ddb98bc7
