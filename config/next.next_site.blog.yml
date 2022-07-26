@@ -4,6 +4,6 @@ status: true
 dependencies: {  }
 id: blog
 label: Blog
-base_url: 'http://localhost:3000'
-preview_url: 'http://localhost:3000/api/preview'
+base_url: 'https://3a42b433b81041d593a46b6a594a0b49.appa.pantheon.site'
+preview_url: 'https://3a42b433b81041d593a46b6a594a0b49.appa.pantheon.site/api/preview'
 preview_secret: nextfordrupalsecret
